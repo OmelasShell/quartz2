@@ -1,3 +1,4 @@
 [submodule "content"]
 	path = content
 	url = https://github.com/Cyspber/RenJianYanHuo.git
+	branch = master
