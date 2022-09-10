@@ -1,4 +1,4 @@
 [submodule "content"]
 	path = content
-	url = https://github.com/Cyspber/RenJianYanHuo.git
+	url = https://github.com/OmelasShell/RenJianYanHuo.git
 	branch = main
